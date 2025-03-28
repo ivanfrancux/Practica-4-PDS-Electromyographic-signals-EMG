@@ -410,6 +410,103 @@ Esto significa que:
    - Se usa una **escala logarítmica** para visualizar mejor las frecuencias relevantes.
 
 
+Contracción 1 (Tiempo: 0.77s - 1.37s):
+  Frecuencia Dominante: -0.00 Hz
+  Frecuencia Media: -0.00 Hz
+  Desviación Estándar: 28.97 Hz
+Contracción 2 (Tiempo: 2.07s - 2.67s):
+  Frecuencia Dominante: -0.11 Hz
+  Frecuencia Media: -0.11 Hz
+  Desviación Estándar: 120.54 Hz
+Contracción 3 (Tiempo: 3.23s - 3.82s):
+  Frecuencia Dominante: -0.11 Hz
+  Frecuencia Media: -0.11 Hz
+  Desviación Estándar: 113.60 Hz
+Contracción 4 (Tiempo: 4.38s - 4.98s):
+  Frecuencia Dominante: -0.13 Hz
+  Frecuencia Media: -0.13 Hz
+  Desviación Estándar: 123.84 Hz
+Contracción 5 (Tiempo: 5.73s - 6.32s):
+  Frecuencia Dominante: -0.10 Hz
+  Frecuencia Media: -0.10 Hz
+  Desviación Estándar: 110.21 Hz
+Contracción 6 (Tiempo: 6.99s - 7.58s):
+  Frecuencia Dominante: -0.13 Hz
+  Frecuencia Media: -0.13 Hz
+  Desviación Estándar: 124.64 Hz
+Contracción 7 (Tiempo: 8.27s - 8.87s):
+  Frecuencia Dominante: -0.10 Hz
+  Frecuencia Media: -0.10 Hz
+  Desviación Estándar: 109.44 Hz
+Contracción 8 (Tiempo: 9.64s - 10.24s):
+  Frecuencia Dominante: -0.12 Hz
+  Frecuencia Media: -0.12 Hz
+  Desviación Estándar: 121.36 Hz
+Contracción 9 (Tiempo: 10.78s - 11.38s):
+  Frecuencia Dominante: -0.03 Hz
+  Frecuencia Media: -0.03 Hz
+  Desviación Estándar: 62.22 Hz
+Contracción 10 (Tiempo: 12.16s - 12.76s):
+  Frecuencia Dominante: -0.10 Hz
+  Frecuencia Media: -0.10 Hz
+  Desviación Estándar: 109.15 Hz
+Contracción 11 (Tiempo: 13.34s - 13.94s):
+  Frecuencia Dominante: -0.06 Hz
+  Frecuencia Media: -0.06 Hz
+  Desviación Estándar: 85.65 Hz
+Contracción 12 (Tiempo: 14.76s - 15.36s):
+  Frecuencia Dominante: -0.10 Hz
+  Frecuencia Media: -0.10 Hz
+  Desviación Estándar: 110.92 Hz
+Contracción 13 (Tiempo: 16.05s - 16.65s):
+  Frecuencia Dominante: -0.07 Hz
+  Frecuencia Media: -0.07 Hz
+  Desviación Estándar: 91.56 Hz
+Contracción 14 (Tiempo: 17.26s - 17.86s):
+  Frecuencia Dominante: -0.08 Hz
+  Frecuencia Media: -0.08 Hz
+  Desviación Estándar: 99.19 Hz
+Contracción 15 (Tiempo: 18.65s - 19.25s):
+  Frecuencia Dominante: -0.10 Hz
+  Frecuencia Media: -0.10 Hz
+  Desviación Estándar: 107.67 Hz
+Contracción 16 (Tiempo: 19.94s - 20.54s):
+  Frecuencia Dominante: -0.09 Hz
+  Frecuencia Media: -0.09 Hz
+  Desviación Estándar: 103.33 Hz
+Contracción 17 (Tiempo: 21.25s - 21.85s):
+  Frecuencia Dominante: -0.13 Hz
+  Frecuencia Media: -0.13 Hz
+  Desviación Estándar: 123.88 Hz
+Contracción 18 (Tiempo: 22.56s - 23.16s):
+  Frecuencia Dominante: -0.07 Hz
+  Frecuencia Media: -0.07 Hz
+  Desviación Estándar: 95.52 Hz
+Contracción 19 (Tiempo: 23.84s - 24.44s):
+  Frecuencia Dominante: -0.09 Hz
+  Frecuencia Media: -0.09 Hz
+  Desviación Estándar: 102.12 Hz
+Contracción 20 (Tiempo: 25.19s - 25.79s):
+  Frecuencia Dominante: -0.03 Hz
+  Frecuencia Media: -0.03 Hz
+  Desviación Estándar: 59.68 Hz
+Contracción 21 (Tiempo: 26.45s - 27.05s):
+  Frecuencia Dominante: -0.04 Hz
+  Frecuencia Media: -0.04 Hz
+  Desviación Estándar: 72.51 Hz
+Contracción 22 (Tiempo: 27.69s - 28.28s):
+  Frecuencia Dominante: -0.05 Hz
+  Frecuencia Media: -0.05 Hz
+  Desviación Estándar: 75.50 Hz
+Contracción 23 (Tiempo: 29.00s - 29.60s):
+  Frecuencia Dominante: -0.06 Hz
+  Frecuencia Media: -0.06 Hz
+  Desviación Estándar: 84.79 Hz
+
+![Figure_1](https://github.com/user-attachments/assets/39b798c3-8295-4bdc-ac80-65c89699bc6d)
+![Figure_2](https://github.com/user-attachments/assets/a614cb9a-ec4c-4644-b18d-b45e0464f3d3)
+![Figure_3](https://github.com/user-attachments/assets/51855ec1-7fec-4296-af89-23f5f06665ab)
+![Figure_4](https://github.com/user-attachments/assets/39afb53e-37cb-4135-800c-36110367f269)
 
 
 
