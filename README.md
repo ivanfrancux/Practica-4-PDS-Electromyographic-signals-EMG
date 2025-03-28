@@ -384,7 +384,30 @@ Esto significa que:
 - Se **eliminan tendencias de baja frecuencia**, lo que hace que la señal fluctúe más alrededor de cero.  
 - La señal mantiene su forma original, pero ahora con valores más equilibrados entre positivos y negativos.  
 
+# Análisis de Ventanas y Frecuencias en la Señal EMG
 
+![ventana](https://github.com/user-attachments/assets/93808bcd-d8d4-4d36-8cf4-4e353abdaf9d)
+
+
+### **Explicación del Código y Relación con las Ventanas**  
+1. **Ventana de Hamming** (`apply_hamming_window`):  
+   - Se usa una ventana de **Hamming** para suavizar la señal, reduciendo fluctuaciones bruscas y mejorando la detección de patrones en la señal EMG.
+   - Se aplica una convolución con una ventana de tamaño 101 (o menor si la señal es más corta).
+
+2. **Identificación de Contracciones** (`identificar_contracciones`):  
+   - Se detectan los picos de la señal con una altura mínima de 2.5 V y una distancia de **0.6 segundos** entre ellos, asegurando que cada pico sea una contracción válida.
+   - Se extraen fragmentos de la señal alrededor de cada pico.
+
+3. **Análisis de Frecuencia** (`analizar_frecuencia`):  
+   - Se realiza una **Transformada Rápida de Fourier (FFT)** en cada contracción detectada.
+   - Se calculan:
+     - **Frecuencia Dominante**: la frecuencia con mayor contribución en la señal.
+     - **Frecuencia Media**: el promedio ponderado de las frecuencias en el espectro.
+     - **Desviación Estándar**: medida de dispersión en las frecuencias.
+
+4. **Visualización de los Resultados**:  
+   - Se generan gráficos de espectro de frecuencia para cada contracción detectada.
+   - Se usa una **escala logarítmica** para visualizar mejor las frecuencias relevantes.
 
 
 
